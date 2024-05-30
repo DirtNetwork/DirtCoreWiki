@@ -1,0 +1,1 @@
+The wiki can be found here: [DirtCore Wiki](https://github.com/DirtNetwork/DirtCoreWiki/wiki)
